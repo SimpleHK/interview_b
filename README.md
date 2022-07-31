@@ -6,6 +6,7 @@
 <br>
 
 <div align="center">
+简体中文
 &emsp;&emsp; | &emsp;&emsp;
 <a href="https://github.com/huihut/interview/blob/master/README_en.md">English</a>
 </div> 
